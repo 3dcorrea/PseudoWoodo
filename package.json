@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/3dcorrea/PseudoWoodo/issues"
   },
-  "homepage": "https://github.com/3dcorrea/PseudoWoodo#readme"
+  "homepage": "https://github.com/3dcorrea/PseudoWoodo#readme",
+  "dependencies": {
+    "generator": "^1.0.1",
+    "global": "^4.4.0",
+    "yo": "^2.0.6"
+  }
 }
